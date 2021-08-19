@@ -1,6 +1,7 @@
 # Análisis de plantas eléctricas en el sur de México
 ## Grupo 1. Club 4
 
+### Introducción
 Durante los últimos años, el consumo de energía en México ha incrementado significativamente, llegando al punto en que la demanda supera por completo las cifras de producción en el país. México tiene un potencial muy grande en cuanto a producción de energías alternativas, sin embargo, dichas fuentes no se han explotado en su mayor capacidad debido a diversos factores, tanto sociales como económicos y políticos. 
 A lo largo de este proyecto evaluaremos las fortalezas y debilidades de tres de las mayores plantas de producción eléctrica presentes en la región sureste del país, como lo son la Central Termoeléctrica Adolfo López Mateos, ubicada en Veracruz, la planta nuclear Laguna Verde, ubicada en Veracruz, y los parques Eólicos del Istmo de Tehuantepec, en Oaxaca; tomando en cuenta impactos sociales, ambientales y económicos.
 Consideramos que es momento de tomar una decisión respecto al aumento de la producción de energía, ya que, si bien existen proyectos para ampliar y abrir nuevas plantas, no se le está dando la agilidad que se precisa hoy en día. 
