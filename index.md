@@ -94,8 +94,8 @@ Se trata de la única central nuclear de generación eléctrica en México. Se e
 Se ubica en los municipios de Juchitán de Zaragoza, El Espinal, Asunción Ixtaltepec y Ciudad Ixtepec, pertenecientes al Suroeste del estado de Oaxaca, en la Región del Istmo de Tehuantepec. Dicha central eólica se encuentra en operación desde 2012 con una capacidad de 164 megawatts.
 
 ## MORTALIDAD E IMPACTO A LA SALUD
-###CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
-Esta termoeléctrica funciona a base de la quema de combustóleo, el cual emite distintos contaminantes a la atmósfera. 
+### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
+Esta termoeléctrica funciona a base de la quema de [combustóleo](https://www.eluniversal.com.mx/nacion/que-es-el-combustoleo-y-por-que-es-tan-polemico), el cual emite distintos contaminantes a la atmósfera. 
 
 **PRINCIPALES CONTAMINANTES EMITIDOS POR COMBUSTÓLEO**
 Monóxido de Carbono
