@@ -3,8 +3,7 @@
 
 **Nuestro proyecto tiene como objetivo analizar las ventajas y desventajas de tres de las plantas generadoras de energía eléctrica presentes en el sur de México, y así determinar una solución factible para satisfacer la demanda energética.**
 
-## ¡Acompáñanos! 
-### Grupo 1. Club 4
+### ¡Acompáñanos! 
 
 ## Introducción
 Durante los últimos años, el consumo de energía en México ha incrementado significativamente, llegando al punto en que la demanda supera por completo las cifras de producción en el país. México tiene un potencial muy grande en cuanto a producción de energías alternativas, sin embargo, dichas fuentes no se han explotado en su mayor capacidad debido a diversos factores, tanto sociales como económicos y políticos. 
@@ -14,11 +13,11 @@ Nuestro proyecto va de la mano con el apartado número siete de los Objetivos de
 
 ## Plantas a evaluar en el presente proyecto:
 ```markdown
-**CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”**
+CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
 
-**CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”**
+CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
 
-**CENTRAL EÓLICA “BIÍ STINÚ”**
+CENTRAL EÓLICA “BIÍ STINÚ”
 
 ```
 ## METODOLOGÍA
