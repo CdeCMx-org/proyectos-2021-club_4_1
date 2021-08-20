@@ -1,7 +1,7 @@
-# Análisis de plantas eléctricas en el sur de México
-## Grupo 1. Club 4
+# En el último año, ¿cuántas veces te has quedado sin luz en tu casa?
+## Nuestro proyecto tiene como objetivo analizar las ventajas y desventajas de tres de las plantas generadoras de energía eléctrica presentes en el sur de México, y así determinar una solución factible para satisfacer la demanda energética.
 
-¿C
+### Grupo 1. Club 4
 
 ## Introducción
 Durante los últimos años, el consumo de energía en México ha incrementado significativamente, llegando al punto en que la demanda supera por completo las cifras de producción en el país. México tiene un potencial muy grande en cuanto a producción de energías alternativas, sin embargo, dichas fuentes no se han explotado en su mayor capacidad debido a diversos factores, tanto sociales como económicos y políticos. 
@@ -31,7 +31,7 @@ En la fisión nuclear, los núcleos se separan para formar núcleos más estable
 En cambio, en la fusión nuclear los núcleos de átomos ligeros, en general el hidrógeno y sus isótopos (deuterio y tritio) se unen para formar un núcleo más grande. No hay reacciones en cadena y sus residuos tienen un bajo impacto ambiental. Esta es la forma en que el sol produce energía. 
 Durante cualquiera de estas reacciones, los átomos experimentan una pérdida de masa, misma que se convierte en una gran cantidad de energía calorífica y de radiación. Se demuestra con la ecuación E=mc2, la energía (E) es igual a la masa (m) multiplicada por el cuadrado de la velocidad de la luz (c2).
 
-**Aspectos negativos**
+**Aspectos negativos.**
 Las centrales nucleares de fisión (que son las más comunes) producen residuos que no tienen ninguna utilidad y que continúan emitiendo radiación durante cientos o miles de años, su liberación al ambiente sería devastadora. Estos residuos son almacenados temporalmente en bodegas o albercas y requieren de constante mantenimiento. No existe un almacenamiento permanente ni una solución satisfactoria para esta situación. 
 La fusión es una reacción nuclear que aún no es comercial, la energía obtenida es menor que la energía requerida durante la reacción. 
 
@@ -39,7 +39,7 @@ La fusión es una reacción nuclear que aún no es comercial, la energía obteni
 Las energías renovables se obtienen a partir de fenómenos que ocurren en la naturaleza, es decir, de fuentes inagotables, además, al ser generadas no liberan contaminantes (son limpias). Algunos tipos de energías renovables son; solar, eólica, mareomotriz, hidráulica,  geotérmica y biomasa. Se describirá la de mayor interés en la investigación:
 Eólica. Las corrientes de viento hacen girar las aspas de los aerogeneradores, convirtiendo la energía cinética del viento en energía mecánica y, posteriormente, en eléctrica. Los aerogeneradores miden entre 80 y 120 m de altura y para su funcionamiento, la velocidad mínima del viento debe ser entre 11 y 15 km/h. 
 
-**Aspectos negativos**
+**Aspectos negativos.**
 Los parques eólicos ocupan grandes extensiones de terreno, sustituyendo campos de cultivo o desplazando a comunidades locales. 
 Afecta la migración de las aves.
 Genera contaminación auditiva.
@@ -47,7 +47,7 @@ Genera contaminación auditiva.
 ### Combustibles fósiles
 El petróleo, el gas y el carbón son hidrocarburos. Estos recursos se formaron a partir de materia orgánica que se acumuló hace millones de años en el fondo de lagos o mares y luego fue cubierta por varias capas de sedimentos. En las centrales termoeléctricas, funcionan a partir de la combustión (quema) de algún combustible fósil, el calor generado convierte el agua líquida en vapor, éste hace girar unas turbinas las cuales están acopladas a generadores de electricidad. 
 
-**Aspectos negativos**
+**Aspectos negativos.**
 Contaminación del aire. Su combustión libera una gran cantidad de gases y partículas contaminantes a la atmósfera, uno de ellos, es el dióxido de carbono (CO2), que es uno de los gases de efecto invernadero causantes del cambio climático. 
 Afecta a la salud. Debido al punto anterior, genera enfermedades respiratorias y cardiovasculares.
 Los combustibles fósiles existen en cantidades finitas, no son renovables. 
