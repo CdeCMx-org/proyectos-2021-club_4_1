@@ -7,6 +7,18 @@ A lo largo de este proyecto evaluaremos las fortalezas y debilidades de tres de 
 Consideramos que es momento de tomar una decisión respecto al aumento de la producción de energía, ya que, si bien existen proyectos para ampliar y abrir nuevas plantas, no se le está dando la agilidad que se precisa hoy en día. 
 Nuestro proyecto va de la mano con el apartado número siete de los Objetivos de Desarrollo Sostenible propuestos por la ONU, teniendo como propósito principal de proyecto el impulsar el país a generar energías limpias, seguras y eficientes para satisfacer la creciente necesidad energética de la población aplicando, a su vez, los conocimientos adquiridos sobre el funcionamiento, eficiencia energética y medidas de seguridad de plantas nucleares y energías alternativas en el Club 4: "Nuclear vs Renewables? The fight for energy supremacy" de Clubes de Ciencia México 2021.
 
+```markdown
+## Plantas a evaluar en el presente proyecto:
+
+**CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”**
+
+
+**CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”**
+
+**CENTRAL EÓLICA “BIÍ STINÚ”**
+
+
+```
 
 ### Markdown
 
