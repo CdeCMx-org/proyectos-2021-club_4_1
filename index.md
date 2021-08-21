@@ -30,9 +30,11 @@ Para esta investigación, se decidió tomar como base uno de los objetivos del c
 A continuación, se explicarán conceptos básicos del funcionamiento de cada energía y sus aspectos negativos.
 
 ### Nuclear. 
-La energía nuclear es la energía contenida en el núcleo de un átomo. Esta puede obtenerse a través de dos formas: fisión y fusión. 
-En la fisión nuclear, los núcleos se separan para formar núcleos más estables, de menor peso y que se mueven rápidamente. Para lograrlo, se utilizan átomos de elementos pesados, como el Uranio [235Ur]. Estos átomos son bombardeados con neutrones provocando una reacción de fisión, esto genera fragmentos más ligeros de uranio y más neutrones, que desencadenan nuevas reacciones. A este efecto  se le llama reacción en cadena.
-En cambio, en la fusión nuclear los núcleos de átomos ligeros, en general el hidrógeno y sus isótopos (deuterio y tritio) se unen para formar un núcleo más grande. No hay reacciones en cadena y sus residuos tienen un bajo impacto ambiental. Esta es la forma en que el sol produce energía. 
+La energía nuclear es la energía contenida en el núcleo de un [átomo](https://energia-nuclear.net/que-es-la-energia-nuclear/atomo). Esta puede obtenerse a través de dos formas: fisión y fusión. 
+*En la [fisión nuclear](https://www.csn.es/fision-nuclear), los núcleos se separan para formar núcleos más estables, de menor peso y que se mueven rápidamente. Para lograrlo, se utilizan átomos de elementos pesados, como el Uranio [235Ur]. Estos átomos son bombardeados con neutrones provocando una reacción de fisión, esto genera fragmentos más ligeros de uranio y más neutrones, que desencadenan nuevas reacciones. A este efecto  se le llama reacción en cadena.
+![image2](https://pbs.twimg.com/media/EC6ryWFWsAAjyTv.jpg:large)
+*En cambio, en la [fusión nuclear](https://www.csn.es/fusion-nuclear) los núcleos de átomos ligeros, en general el hidrógeno y sus isótopos (deuterio y tritio) se unen para formar un núcleo más grande. No hay reacciones en cadena y sus residuos tienen un bajo impacto ambiental. Esta es la forma en que el sol produce energía. 
+![](https://culturacientifica.com/app/uploads/2015/01/figura_2.jpg)
 Durante cualquiera de estas reacciones, los átomos experimentan una pérdida de masa, misma que se convierte en una gran cantidad de energía calorífica y de radiación. Se demuestra con la ecuación E=mc2, la energía (E) es igual a la masa (m) multiplicada por el cuadrado de la velocidad de la luz (c2).
 
 **Aspectos negativos.**
