@@ -104,18 +104,29 @@ Esta termoeléctrica funciona a base de la quema de [combustóleo](https://www.e
 
 **PRINCIPALES CONTAMINANTES EMITIDOS POR COMBUSTÓLEO**
 
-Monóxido de Carbono
-Plomo
-Óxidos de nitrógeno
-Óxido de azufre
-Partículas suspendidas
-Benceno
-Berilio
-Metales pesados (cadmio, cromo, cobalto, mercurio)
-Dioxinas y furanos
-Etilbenceno
-Formaldehído
-Manganeso
+**Monóxido de Carbono**
+
+**Plomo**
+
+**Óxidos de nitrógeno**
+
+**Óxido de azufre**
+
+**Partículas suspendidas**
+
+**Benceno**
+
+**Berilio**
+
+**Metales pesados (cadmio, cromo, cobalto, mercurio)**
+
+**Dioxinas y furanos**
+
+**Etilbenceno**
+
+**Formaldehído**
+
+**Manganeso**
 
 Esta termoeléctrica es la planta generadora de energía con mayores emisiones de dióxido de azufre (SO2) en América del Norte; con emisiones de PM2.5 (partículas de 2.5 micras de diámetro), 10 veces mayores que el promedio estadounidense y, aproximadamente, un 38% mayores que el promedio mexicano.
 
