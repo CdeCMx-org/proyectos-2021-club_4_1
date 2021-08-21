@@ -3,9 +3,8 @@
 
 **Nuestro proyecto tiene como objetivo analizar las ventajas y desventajas de tres de las plantas generadoras de energía eléctrica presentes en el sur de México, y así determinar una solución factible para satisfacer la demanda energética.**
 
-![image1](https://base.imgix.net/files/base/ebm/ecmweb/image/2019/04/ecmweb_10557_electrical_facts_2014_pr.png?auto=format&fit=crop&h=432&w=768)
-
 ### ¡Acompáñanos! 
+![image1](https://base.imgix.net/files/base/ebm/ecmweb/image/2019/04/ecmweb_10557_electrical_facts_2014_pr.png?auto=format&fit=crop&h=432&w=768)
 
 ## Introducción
 Durante los últimos años, el consumo de energía en México ha [incrementado significativamente](https://www.cenace.gob.mx/graficademanda.aspx), llegando al punto en que la demanda supera por completo las cifras de producción en el país. México tiene un potencial muy grande en cuanto a producción de energías alternativas, sin embargo, dichas fuentes no se han explotado en su mayor capacidad debido a diversos factores, tanto sociales como económicos y políticos. 
@@ -22,6 +21,7 @@ CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
 CENTRAL EÓLICA “BIÍ STINÚ”
 
 ```
+------------------------------------------------------------------------------------------------------
 ## METODOLOGÍA
 ### LAS PRINCIPALES FUENTES DE ENERGÍA
 El sureste de México se encuentra conformado por los estados de Campeche, Chiapas, Oaxaca, Quintana Roo, Tabasco, Veracruz y Yucatán. Abarca un área de alrededor de 404,555 km² con una población de cerca de 25.321 millones de habitantes. La producción de energía eléctrica que abastezca la necesidad de su población se convierte en un tema de importancia.
@@ -57,7 +57,7 @@ Afecta a la salud. Debido al punto anterior, genera enfermedades respiratorias y
 Los combustibles fósiles existen en cantidades finitas, no son renovables. 
 
 
-
+--------------------------------------------------------------------------------------------
 
 
 ## DETERMINANDO LOS PARÁMETROS DE COMPARACIÓN
@@ -81,6 +81,7 @@ Costo de inversión inicial:  Los recursos económicos que fueron necesarios par
 		
 Nivel de producción energética: Promedio de producción de energía anual así como destacar si esta producción se ve afectada temporalmente por las condiciones climatológicas
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ## PLANTAS ENERGÉTICAS SELECCIONADAS
 Una vez que los parámetros de comparación fueron establecidos, fue momento de iniciar la recopilación de datos. Se decidió evaluar solo 3 plantas energéticas, cada una funcionando con una de las fuentes de energía previamente mencionadas, esto con el propósito de cumplir con el tiempo asignado a la elaboración del proyecto. Las plantas enlistadas a continuación:
 Central Termoeléctrica “Adolfo López Mateos” (Energía combustible fósil)
@@ -102,6 +103,7 @@ Se ubica en los municipios de Juchitán de Zaragoza, El Espinal, Asunción Ixtal
 Esta termoeléctrica funciona a base de la quema de [combustóleo](https://www.eluniversal.com.mx/nacion/que-es-el-combustoleo-y-por-que-es-tan-polemico), el cual emite distintos contaminantes a la atmósfera. 
 
 **PRINCIPALES CONTAMINANTES EMITIDOS POR COMBUSTÓLEO**
+
 Monóxido de Carbono
 Plomo
 Óxidos de nitrógeno
