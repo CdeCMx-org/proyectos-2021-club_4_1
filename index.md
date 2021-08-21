@@ -3,7 +3,7 @@
 
 **Nuestro proyecto tiene como objetivo analizar las ventajas y desventajas de tres de las plantas generadoras de energía eléctrica presentes en el sur de México, y así determinar una solución factible para satisfacer la demanda energética.**
 
-:[image1](https://base.imgix.net/files/base/ebm/ecmweb/image/2019/04/ecmweb_10557_electrical_facts_2014_pr.png?auto=format&fit=crop&h=432&w=768)
+![image1](https://base.imgix.net/files/base/ebm/ecmweb/image/2019/04/ecmweb_10557_electrical_facts_2014_pr.png?auto=format&fit=crop&h=432&w=768)
 
 ### ¡Acompáñanos! 
 
