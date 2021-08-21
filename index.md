@@ -122,29 +122,29 @@ Esta termoeléctrica funciona a base de la quema de [combustóleo](https://www.e
 
 #### PRINCIPALES CONTAMINANTES EMITIDOS POR COMBUSTÓLEO
 
-**Monóxido de Carbono**
+- Monóxido de Carbono
 
-**Plomo**
+- Plomo
 
-**Óxidos de nitrógeno**
+- Óxidos de nitrógeno
 
-**Óxido de azufre**
+- Óxido de azufre
 
-**Partículas suspendidas**
+- Partículas suspendidas
 
-**Benceno**
+- Benceno
 
-**Berilio**
+- Berilio
 
-**Metales pesados (cadmio, cromo, cobalto, mercurio)**
+- Metales pesados (cadmio, cromo, cobalto, mercurio)
 
-**Dioxinas y furanos**
+- Dioxinas y furanos
 
-**Etilbenceno**
+- Etilbenceno
 
-**Formaldehído**
+- Formaldehído
 
-**Manganeso**
+- Manganeso
 
 Esta termoeléctrica es la planta generadora de energía con mayores emisiones de dióxido de azufre (SO2) en América del Norte; con emisiones de [PM2.5](https://www.ecologistasenaccion.org/17842/que-son-las-pm25-y-como-afectan-a-nuestra-salud/) (partículas de 2.5 micras de diámetro), 10 veces mayores que el promedio estadounidense y, aproximadamente, un 38% mayores que el promedio mexicano.
 
@@ -211,6 +211,51 @@ En el caso de Oaxaca, las empresas eólicas limitan la información sobre sus pr
 A pesar de ello, la energía eólica tiene un gran nivel de aceptación social, con la mayoría de las personas considerándola una de las mejores opciones energéticas.
 -------------------------------------------------------------------------------------------------------------------
 #### A continuación presentamos los resultados obtenidos por medio de una encuesta aplicada, cuyo propósito fue evaluar la opinión pública de la energía nuclear con respecto a otras fuentes de energía predominantes en el sureste.
+
+-----------------------------------------------------------------------------------------
+## IMPACTO AMBIENTAL 
+
+Todas las formas de generación de electricidad a gran escala [afectan de alguna manera al ambiente](http://cambioclimatico.gob.mx:8080/xmlui/bitstream/handle/publicaciones/130/496_2006_Intr_evaluacion_impactos_termoelectricas_Mexico.pdf?sequence=1&isAllowed=y). Determinar el impacto ambiental de las distintas formas de generación de electricidad ha resultado ser una tarea por demás desafiante, dadas las dificultades para cuantificar los efectos en el ambiente de las diversas fuentes y tecnologías a lo largo de su ciclo de vida . El tipo y la cantidad de las emisiones contaminantes derivadas de la generación de energía eléctrica dependen del tipo de energético primario empleado y de la tecnología de conversión. 
+
+
+### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
+ 
+La mayor parte de las emisiones de contaminantes atmosféricos del sector proceden de las centrales que utilizan hidrocarburos como combustible. Estas plantas causan efectos negativos en los ecosistemas por la gran [producción de óxidos de nitrógeno y óxidos de azufre](https://www.eleconomista.com.mx/politica/Termoelectrica-Adolfo-Lopez-Mateos-de-Tuxpan-Veracruz-el-chacuaco-del-Golfo-20200606-0019.html).
+
+La CTALM consume alrededor de 3.7 millones de metros cúbicos de combustóleo y genera más de 256 mil toneladas de bióxido de azufre al año, más de 10 millones de toneladas de bióxido de carbono al año y más de 21 mil toneladas de óxidos de nitrógeno al año. 
+
+- Un reporte realizado en el 2004 por la CEPAL y la SEMARNAT, estima el costo de los daños sanitarios y ambientales provocados por las emisiones de la termoeléctrica, los cuales ascienden a 50 millones de dólares al año.
+- El equilibrio ecológico se ve amenazado gravemente porque la termoeléctrica filtra a la laguna el agua que utiliza para enfriar las unidades generadoras, misma que contiene metales pesados e incrementa la temperatura en los humedales, afectando a plantas y peces.
+- A su vez, los manglares de Tuxpan sufren daños irreparables debido al incremento de la temperatura del agua; los manglares son de gran importancia para la armonía del ecosistema. Los manglares incluyendo, los de la laguna de Tampamachoco, fueron incluidos en 2006 en la lista de humedales de importancia internacional de la Convención de Ramsar.
+
+
+### CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE” 
+
+La generación de [residuos radiactivos](https://elpais.com/mexico/2021-06-26/el-exceso-de-basura-nuclear-acecha-a-la-central-de-laguna-verde.html) es el principal problema de la energía nuclear. Los residuos son un potencial [contaminante](https://www.greenfacts.org/es/glosario/abc/contaminante.htm), no hay forma de que éstos sean almacenados permanentemente y hacen falta años de investigación para lograr disminuir su producción en las plantas.
+
+La CNLV se enfrenta a la saturación de sus depósitos de residuos nucleares y uranio usado. Así lo reconoce el Plan de Gestión de Desechos Radiactivos y Combustible Nuclear 2017-2023 de la planta, diseñado para mejorar la gestión de esa basura; el plan no incluye acciones para la reducción efectiva en la generación de desechos, sino mejoras en procedimientos, eficiencia en procesos y ampliación de capacidad física. 
+
+La central posee cuatro depósitos para basura radiactiva y una alberca de combustible gastado, genera desechos radiactivos líquidos, gaseosos y sólidos. 
+
+- Datos de CFE de inventarios de residuos consultados por EL PAÍS indican que el almacén temporal de sitio (ATS), que posee dos bodegas con una capacidad total para almacenar 3.319 metros cúbicos, se expone a la saturación, ya que contiene 2.793 m³.
+- El depósito de desechos radiactivos sólidos secos (DDRSS), que cuenta con dos naves con una capacidad conjunta para 1.728 m³, ya ha superado su límite: alberga 2.148 m³. El Plan de Gestión de Desechos de CFE proyecta el cese de operaciones y desmantelamiento de este depósito en junio de 2022. 
+- Los almacenes de materiales contaminados (AMAC), que constan de dos naves con capacidad para 5.639 m³ cada una, almacenan más de 5.000 metros cúbicos una y alrededor de 4.400 la otra. El depósito Cuatro Naves, que resguarda más de 5.000 m³ de residuos, está en proceso de cese de actividades, aunque el destino de sus desechos es incierto.
+
+Aunque la licencia original de operación de Laguna Verde requiere el mantenimiento y almacenamiento de los desechos radiactivos apegados a estándares y controles radiológicos, las condiciones de la renovación de ese permiso, que fue extendido por la Secretaría de Energía (Sener) en julio de 2020 por otros 30 años, no menciona la gestión de los residuos.
+
+### CENTRAL EÓLICA “BIÍ STINÚ”
+
+[La energía eólica](https://www.gob.mx/cms/uploads/attachment/file/31621/eolico.pdf) se presenta como una de las mejores alternativas para reducir las emisiones de gases de efecto invernadero que causan el cambio climático global y reemplazar el uso de combustibles fósiles en la generación de energía eléctrica. Sin embargo, a pesar de los beneficios ambientales que pueda tener la energía eólica, existen impactos sociales y ambientales negativos por la construcción de parques eólicos terrestres a gran escala. Entre los principales impactos destacan: el conflicto por la propiedad de la tierra donde se ubica el recurso eólico, la degradación de la calidad del paisaje, la pérdida de biodiversidad, la generación de ruido mecánico y aerodinámico, entre otros más. 
+
+#### Suelo 
+Hasta ahora los proyectos eólicos en el istmo de Tehuantepec se han instalado predominantemente en tierras [de uso agrícola y ganadero](https://www.sciencedirect.com/science/article/pii/S030170361470879X), lo que en principio minimiza sus repercusiones sobre los ecosistemas locales aunque, hay repercusiones sobre el suelo que afectan a las actividades agropecuarias. 
+
+#### Aves
+Los generadores eólicos pueden tener [efectos negativos](https://www.researchgate.net/profile/Oscar-Munoz-Jimenez/publication/352367789_Parques_eolicos_y_vertebrados_voladores_Cronica_de_una_relacion_complicada/links/60c65ba0a6fdcc2e6140352e/Parques-eolicos-y-vertebrados-voladores-Cronica-de-una-relacion-complicada.pdf) en la fauna, particularmente en vertebrados voladores. Tanto aves como murciélagos, al volar alrededor de las hélices de los generadores eólicos o de las líneas de transmisión, son incapaces de evitarlas y mueren al impactar contra éstas o por lesiones causadas por cambios de presión en el aire. 
+
+Entre 2009 y 2013 se realizó un muestreo combinado con diferentes métodos que incluye las redes de niebla, grabaciones acústicas y búsqueda de cadáveres. Los resultados indican que las especies afectadas son principalmente residentes y no migratorias. 
+En el trabajo de más reciente publicación  (2020), realizado con base en búsquedas alrededor de las torres eólicas, se registraron individuos de 30 especies de aves y 20 de murciélagos muertos por colisión con las hélices de las torres eólicas. El mayor número de organismos muertos hallados es de aves que de murciélagos. Sin embargo, al realizar estimaciones considerando la eficiencia de la búsqueda y persistencia de los cadáveres, se encontró que la mortalidad estimada es entre dos y cuatro veces mayor para murciélagos que para aves. La tasa estimada de muertes por megawatts por año son mayores que las registradas en diversos parques eólicos de Estados Unidos, lo que indica la magnitud de la mortalidad de aves y murciélagos en esta área.
+
 
 
 
