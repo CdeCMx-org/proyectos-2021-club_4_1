@@ -51,19 +51,27 @@ Las energías renovables se obtienen a partir de fenómenos que ocurren en la na
 Las corrientes de viento [hacen girar las aspas de los aerogeneradores](https://www.iberdrola.com/medio-ambiente/energia-eolica), convirtiendo la energía cinética del viento en energía mecánica y, posteriormente, en eléctrica. Los aerogeneradores miden entre 80 y 120 m de altura y para su funcionamiento, la velocidad mínima del viento debe ser entre 11 y 15 km/h. 
 
 **Aspectos negativos.**
+
 Los parques eólicos ocupan grandes extensiones de terreno, sustituyendo campos de cultivo o desplazando a comunidades locales. 
+
 Afecta la migración de las aves.
+
 Genera contaminación auditiva.
 
+![eolica1](https://userscontent2.emaze.com/images/9a206afe-1f86-4ad4-83b4-0008b21aa479/d4fc2bef85eff127a8b87c6ddefc1191.gif)
+
 ### Combustibles fósiles
-El petróleo, el gas y el carbón son hidrocarburos. Estos recursos se formaron a partir de materia orgánica que se acumuló hace millones de años en el fondo de lagos o mares y luego fue cubierta por varias capas de sedimentos. En las centrales termoeléctricas, funcionan a partir de la combustión (quema) de algún combustible fósil, el calor generado convierte el agua líquida en vapor, éste hace girar unas turbinas las cuales están acopladas a generadores de electricidad. 
+El petróleo, el gas y el carbón son hidrocarburos. Estos recursos se formaron a partir de materia orgánica que se acumuló hace millones de años en el fondo de lagos o mares y luego fue cubierta por varias capas de sedimentos. En las centrales termoeléctricas, funcionan a partir de la combustión (quema) de algún [combustible fósil](http://energiasdemipais.educ.ar/combustibles-fosiles-3/), el calor generado convierte el agua líquida en vapor, éste hace girar unas turbinas las cuales están acopladas a generadores de electricidad. 
 
 **Aspectos negativos.**
-Contaminación del aire. Su combustión libera una gran cantidad de gases y partículas contaminantes a la atmósfera, uno de ellos, es el dióxido de carbono (CO2), que es uno de los gases de efecto invernadero causantes del cambio climático. 
-Afecta a la salud. Debido al punto anterior, genera enfermedades respiratorias y cardiovasculares.
-Los combustibles fósiles existen en cantidades finitas, no son renovables. 
 
+*Contaminación del aire. Su combustión libera una gran cantidad de gases y partículas contaminantes a la atmósfera, uno de ellos, es el dióxido de carbono (CO2), que es uno de los gases de efecto invernadero causantes del cambio climático. 
 
+*Afecta a la salud. Debido al punto anterior, genera enfermedades respiratorias y cardiovasculares.
+
+*Los combustibles fósiles existen en cantidades finitas, no son renovables. 
+
+![termo1](https://martinbrainon.com/inicio/wp-content/uploads/2016/06/central-termoelectrical-convencional.jpg)
 --------------------------------------------------------------------------------------------
 
 
@@ -72,44 +80,46 @@ Era necesario que estos parámetros tomarán en consideración los principios de
 
 ### SOCIAL
 		
-Mortalidad e impacto a la salud : Cantidad de personas que han muerto como consecuencia de un mal funcionamiento de la planta eléctrica, o si el funcionamiento de la planta ha provocado impactos negativos a la salud de sus trabajadores o de la población que habita en el área. 
+**Mortalidad e impacto a la salud:** Cantidad de personas que han muerto como consecuencia de un mal funcionamiento de la planta eléctrica, o si el funcionamiento de la planta ha provocado impactos negativos a la salud de sus trabajadores o de la población que habita en el área. 
 
-Generación de empleos: Tasa promedio de empleos generados por esa planta así como la cantidad de personas que dependen del funcionamiento de la misma.
+**Generación de empleos:** Tasa promedio de empleos generados por esa planta así como la cantidad de personas que dependen del funcionamiento de la misma.
 
-Nivel de aceptación e impacto social: ¿Qué es lo que opinan las personas acerca del uso de estas energías?
+**Nivel de aceptación e impacto social:** ¿Qué es lo que opinan las personas acerca del uso de estas energías?
 
 ### AMBIENTAL
 		
-Impacto ambiental: Consecuencias ambientales causadas por su construcción y funcionamiento
+**Impacto ambiental:** Consecuencias ambientales causadas por su construcción y funcionamiento
 
 ### ECONÓMICO
 		
-Costo de inversión inicial:  Los recursos económicos que fueron necesarios para poner la planta en funcionamiento
+**Costo de inversión inicial:**  Los recursos económicos que fueron necesarios para poner la planta en funcionamiento
 		
-Nivel de producción energética: Promedio de producción de energía anual así como destacar si esta producción se ve afectada temporalmente por las condiciones climatológicas
+**Nivel de producción energética:** Promedio de producción de energía anual así como destacar si esta producción se ve afectada temporalmente por las condiciones climatológicas
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ## PLANTAS ENERGÉTICAS SELECCIONADAS
 Una vez que los parámetros de comparación fueron establecidos, fue momento de iniciar la recopilación de datos. Se decidió evaluar solo 3 plantas energéticas, cada una funcionando con una de las fuentes de energía previamente mencionadas, esto con el propósito de cumplir con el tiempo asignado a la elaboración del proyecto. Las plantas enlistadas a continuación:
-Central Termoeléctrica “Adolfo López Mateos” (Energía combustible fósil)
-Central Nucleoeléctrica “Laguna Verde” (Energía nuclear)
-Central Eólica “Bií Stinú” (Energía renovable)
 
 ## CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
 Ubicada en el municipio de Tuxpan, Veracruz. Es el mayor generador de energía en el país mediante recursos no renovables (petróleo). Fue inaugurada el 30 de junio de 1991 y cuenta con 6 generadores.
 
+![](https://i1.wp.com/www.tuxpaninformativo.com/wp-content/uploads/116935232_955949548180185_2593658992889243150_n-1.jpg?fit=720%2C405&ssl=1)
 
-## CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
+## CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE” (CNVL)
 Se trata de la única central nuclear de generación eléctrica en México. Se encuentra en el municipio de Alto Lucero de Gutiérrez Barrios, en el estado de Veracruz. Con 45 años desde su fundación, fue construida en cooperación con el programa estadounidense “Átomos por la paz” y la Organización de las Naciones Unidas. Cuenta con 2 unidades en funcionamiento.
+
+![](http://www.contrareplica.mx/uploads/2020/07/17/normal/b6fa301d52a54111f3ef19427ebe9609.jpg)
 
 ## CENTRAL EÓLICA “BIÍ STINÚ”
 Se ubica en los municipios de Juchitán de Zaragoza, El Espinal, Asunción Ixtaltepec y Ciudad Ixtepec, pertenecientes al Suroeste del estado de Oaxaca, en la Región del Istmo de Tehuantepec. Dicha central eólica se encuentra en operación desde 2012 con una capacidad de 164 megawatts.
+
+![](https://aquinoticias.mx/wp-content/uploads/2019/06/e%C3%B3lica-M%C3%A9xico-parque-e%C3%B3lico-Oaxaca-660x440.jpg)
 
 ## MORTALIDAD E IMPACTO A LA SALUD
 ### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
 Esta termoeléctrica funciona a base de la quema de [combustóleo](https://www.eluniversal.com.mx/nacion/que-es-el-combustoleo-y-por-que-es-tan-polemico), el cual emite distintos contaminantes a la atmósfera. 
 
-**PRINCIPALES CONTAMINANTES EMITIDOS POR COMBUSTÓLEO**
+#### PRINCIPALES CONTAMINANTES EMITIDOS POR COMBUSTÓLEO
 
 **Monóxido de Carbono**
 
@@ -135,10 +145,10 @@ Esta termoeléctrica funciona a base de la quema de [combustóleo](https://www.e
 
 **Manganeso**
 
-Esta termoeléctrica es la planta generadora de energía con mayores emisiones de dióxido de azufre (SO2) en América del Norte; con emisiones de PM2.5 (partículas de 2.5 micras de diámetro), 10 veces mayores que el promedio estadounidense y, aproximadamente, un 38% mayores que el promedio mexicano.
+Esta termoeléctrica es la planta generadora de energía con mayores emisiones de dióxido de azufre (SO2) en América del Norte; con emisiones de [PM2.5](https://www.ecologistasenaccion.org/17842/que-son-las-pm25-y-como-afectan-a-nuestra-salud/) (partículas de 2.5 micras de diámetro), 10 veces mayores que el promedio estadounidense y, aproximadamente, un 38% mayores que el promedio mexicano.
 
 Múltiples estudios científicos han relacionado la exposición a PM10 y PM2.5 con efectos en la salud, incluyendo agravación del asma, aumento de los síntomas respiratorios, como tos y respiración difícil o dolorosa, bronquitis crónica y reducción de la función pulmonar
-Las PM2.5 se dividen en primarias y secundarias. Las PM2.5 primarias afectan un área de 20 km a la redonda, mientras que las PM2.5 secundarias pueden afectar un área de hasta  60 km
+Las PM2.5 se dividen en primarias y secundarias. Las PM2.5 primarias afectan un área de 20 km a la redonda, mientras que las PM2.5 secundarias pueden afectar un área de hasta  60 km.
 
 La exposición al SO2 se ha asociado con daños respiratorios temporales en niños y adultos asmáticos. La exposición a magnitudes elevadas de SO2 puede causar reducciones en la función pulmonar, estado que se puede acompañar de síntomas como estornudos, opresión en el pecho, falta de aire, enfermedades respiratorias, alteraciones en las defensas pulmonares y agravación de enfermedades cardiovasculares preexistentes.
 En un estudio reciente se encontró que la exposición crónica a SO2 y a la fracción de partículas sulfatadas aumenta la probabilidad de mortalidad prematura en adultos.
