@@ -42,6 +42,7 @@ La [energía nuclear](https://www.csn.es/la-energia-nuclear) es la energía cont
 Durante cualquiera de estas reacciones, los átomos experimentan una pérdida de masa, misma que se convierte en una gran cantidad de energía calorífica y de radiación. Se demuestra con la ecuación E=mc2, la energía (E) es igual a la masa (m) multiplicada por el cuadrado de la velocidad de la luz (c2).
 
 **Aspectos negativos.**
+
 Las centrales nucleares de fisión (que son las más comunes) producen [residuos](https://www.foronuclear.org/descubre-la-energia-nuclear/preguntas-y-respuestas/sobre-fusion-nuclear/cuales-son-las-ventajas-y-desventajas-de-la-fision-y-fusion-nuclear/) que no tienen ninguna utilidad y que continúan emitiendo radiación durante cientos o miles de años, su liberación al ambiente sería devastadora. Estos residuos son almacenados temporalmente en bodegas o albercas y requieren de constante mantenimiento. No existe un almacenamiento permanente ni una solución satisfactoria para esta situación. 
 La fusión es una reacción nuclear que aún no es comercial, la energía obtenida es menor que la energía requerida durante la reacción. 
 
@@ -152,10 +153,64 @@ Las PM2.5 se dividen en primarias y secundarias. Las PM2.5 primarias afectan un 
 
 La exposición al SO2 se ha asociado con daños respiratorios temporales en niños y adultos asmáticos. La exposición a magnitudes elevadas de SO2 puede causar reducciones en la función pulmonar, estado que se puede acompañar de síntomas como estornudos, opresión en el pecho, falta de aire, enfermedades respiratorias, alteraciones en las defensas pulmonares y agravación de enfermedades cardiovasculares preexistentes.
 En un estudio reciente se encontró que la exposición crónica a SO2 y a la fracción de partículas sulfatadas aumenta la probabilidad de mortalidad prematura en adultos.
-Se estima que en el municipio de Tuxpan, la exposición crónica de la población de adultos mayores a 30 años de edad a las concentraciones de PM2.5 –producto de las emisiones de la central termoeléctrica– puede ocasionar 30 muertes anuales.
-http://cambioclimatico.gob.mx:8080/xmlui/bitstream/handle/publicaciones/130/496_2006_Intr_evaluacion_impactos_termoelectricas_Mexico.pdf?sequence=1&isAllowed=y
+Se estima que en el municipio de Tuxpan, la exposición crónica de la población de adultos mayores a 30 años de edad a las concentraciones de PM2.5 –producto de las emisiones de la central termoeléctrica– puede ocasionar [30 muertes anuales](http://cambioclimatico.gob.mx:8080/xmlui/bitstream/handle/publicaciones/130/496_2006_Intr_evaluacion_impactos_termoelectricas_Mexico.pdf?sequence=1&isAllowed=y).
 
 
+### CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
+La Central Nuclear de Laguna Verde nunca ha reportado un accidente durante su funcionamiento. Sin embargo, durante su construcción se enfrentaron a un proceso lento y que presentó múltiples problemáticas.
+
+Entre 1988 y 1990, la estación sufrió una fuga de refrigerante del reactor, paros de emergencia, un derrame de ácido sulfúrico, descarga de agua radiactiva al drenaje y entrada de agua de mar al circuito primario de enfriamiento. En 1993 se registró un derrame de cinco millones de litros de agua contaminada radiactivamente al mar.
+
+En 1995, una fuga de boro contaminó el núcleo del reactor. Al año siguiente, varios trabajadores estuvieron expuestos a emisiones radiactivas fuera de los límites permisibles. En 1998, un accidente durante las labores de recarga de uranio liberó radiactividad al ambiente.
+
+La crisis llegó a un punto álgido en 1999, cuando Greenpeace México obtuvo el más reciente examen de WANO (Asociación Mundial de Operadores Nucleares) que reveló áreas gerenciales y organizativas débiles o ignoradas, al punto de encaminarse a la “falla institucional”
+
+Durante los últimos meses de 2020, la nucleoeléctrica ha registrado varios sucesos serios como fugas de combustible, paros forzados y pérdida total de energía externa, lo que sugiere que CFE no ha podido o querido implementar las recomendaciones de WANO desde 2018.
+
+Podemos decir que la mayoría de las problemáticas que se han presentado se deben a una pobre organización y aplicación de las normativas; y no son inherentes a los procesos de producción nuclear.
+
+### CENTRAL EÓLICA "BIÍ STINU"
+----------------------------------------------------
+-------------------------------------------
+----------------------------------
+## GENERACIÓN DE EMPLEOS
+
+### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
+De acuerdo con una [entrevista](https://www.meganoticias.mx/tuxpan/noticia/termoelectrica-adolfo-lopez-mateos-mantiene-generacion-de-empleos/198313) realizada a los representantes de la SUTERM (Sindicato Único de Trabajadores Electricistas de la República Mexicana) en noviembre del 2020, la termoeléctrica genera más de 4 mil 200 plazas para trabajadores eventuales.
+
+Rolando Núñez, Secretario General de la SUTERM en Tuxpan dijo que mientras la central siga operando se contará con fuentes laborales diversas, anunciando que para el próximo año se contempla la realización de mantenimientos mayores que necesitarán de una mayor cantidad de trabajadores obreros en la planta. 
+
+### CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
+Acorde con datos brindados por parte del SENER (Secretaría de Energía), actualmente se encuentran laborando alrededor de 2,000 personas en la Central Nuclear “Laguna Verde”
+
+### CENTRAL EÓLICA “BIÍ STINÚ”
+En cuanto a la producción de empleos, hay un aumento durante la etapa de construcción, sin embargo durante las etapas de operación y mantenimiento existe una reducción de empleos permanentes.
+
+A pesar de no contar con una cifra fija de plazas laborales en la central “Bií Stinú” podemos realizar una aproximación en base a los datos proporcionados por otras centrales eólicas en el Istmo de Tehuantepec.
+
+Se calcula que la construcción de los parques eólicos en servicio en el Istmo de Tehuantepec ha generado en total [4,700 empleos directos](https://energiahoy.com/2021/05/26/sector-eolico-en-mexico-genera-5-4-empleos-por-mw/) y 4,900 indirectos. Las 14 centrales eólicas en operación en Oaxaca emplean alrededor de 300 personas, lo que representa un promedio de un empleo por cada tres aerogeneradores instalados. 
+
+Teniendo en cuenta que esta central consta de 82 aerogeneradores, existen alrededor de 28 empleos directos. Para la población local los empleos en esta fase son pocos y, en general, de [baja remuneración](https://www.sciencedirect.com/science/article/pii/S030170361470879X).
+
+---------------------------------------------------------------
+
+## NIVEL DE ACEPTACIÓN E IMPACTO SOCIAL
+
+### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
+Hoy en día, existe una gran conciencia ambiental entre la población. Gracias a la divulgación científica sobre los efectos del uso de energías no renovables tanto para el medio ambiente como en la salud humana. 
+Sin embargo, aún existe una opinión casi divida en cuanto al funcionamiento de plantas termoeléctricas. Para unos, la puesta en marcha de una planta solo provocará daños ambientales y enfermedades a los pobladores y comunidades aledañas, para otros traerá beneficios como empleos y desarrollo económico en la región.
+
+## CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
+# FALTA
+
+## CENTRAL EÓLICA “BIÍ STINÚ”
+La construcción de centrales eólicas en el istmo de Tehuantepec es liderada por empresas privadas, fundamentalmente extranjeras. Los intereses de estas empresas frecuentemente chocan con los de las comunidades locales donde se pretenden erigir los proyectos. Ello se refleja en el descontento social creciente ante el despliegue masivo de aerogeneradores, luego de constatar que el desarrollo eólico no ha beneficiado en la medida esperada a los pobladores locales.
+
+En el caso de Oaxaca, las empresas eólicas limitan la información sobre sus proyectos a algunos aspectos técnicos, enfocándose en lo referente a los pagos por el usufructo de las tierras, al tiempo que desestiman o eluden hablar sobre sus eventuales efectos adversos.
+
+A pesar de ello, la energía eólica tiene un gran nivel de aceptación social, con la mayoría de las personas considerándola una de las mejores opciones energéticas.
+-------------------------------------------------------------------------------------------------------------------
+#### A continuación presentamos los resultados obtenidos por medio de una encuesta aplicada, cuyo propósito fue evaluar la opinión pública de la energía nuclear con respecto a otras fuentes de energía predominantes en el sureste.
 
 
 
