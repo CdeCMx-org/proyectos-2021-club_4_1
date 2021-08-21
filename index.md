@@ -157,7 +157,7 @@ Se estima que en el municipio de Tuxpan, la exposición crónica de la població
 
 
 ### CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
-La Central Nuclear de Laguna Verde nunca ha reportado un accidente durante su funcionamiento. Sin embargo, durante su construcción se enfrentaron a un proceso lento y que presentó múltiples problemáticas.
+La Central Nuclear de Laguna Verde [nunca ha reportado un accidente](https://elpais.com/mexico/2021-05-28/las-deficiencias-recurrentes-de-la-central-nuclear-de-laguna-verde-reviven-fantasmas-del-pasado.html) durante su funcionamiento. Sin embargo, durante su construcción se enfrentaron a un proceso lento y que presentó múltiples problemáticas.
 
 Entre 1988 y 1990, la estación sufrió una fuga de refrigerante del reactor, paros de emergencia, un derrame de ácido sulfúrico, descarga de agua radiactiva al drenaje y entrada de agua de mar al circuito primario de enfriamiento. En 1993 se registró un derrame de cinco millones de litros de agua contaminada radiactivamente al mar.
 
@@ -170,9 +170,8 @@ Durante los últimos meses de 2020, la nucleoeléctrica ha registrado varios suc
 Podemos decir que la mayoría de las problemáticas que se han presentado se deben a una pobre organización y aplicación de las normativas; y no son inherentes a los procesos de producción nuclear.
 
 ### CENTRAL EÓLICA "BIÍ STINU"
-----------------------------------------------------
--------------------------------------------
-----------------------------------
+Hasta la fecha, este parque eólico no ha registrado ningún accidente dentro de sus instalaciones, además de contar con un [protocolo de seguridad](http://sinat.semarnat.gob.mx/dgiraDocs/documentos/oax/resumenes/2011/20AO2011E0024.pdf) estricto para proteger la integridad física de sus colaboradores. 
+
 ## GENERACIÓN DE EMPLEOS
 
 ### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
@@ -201,7 +200,7 @@ Hoy en día, existe una gran conciencia ambiental entre la población. Gracias a
 Sin embargo, aún existe una opinión casi divida en cuanto al funcionamiento de plantas termoeléctricas. Para unos, la puesta en marcha de una planta solo provocará daños ambientales y enfermedades a los pobladores y comunidades aledañas, para otros traerá beneficios como empleos y desarrollo económico en la región.
 
 ## CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
-# FALTA
+Si bien, hace unos años en México el nivel de desagrado por parte de la población hacia plantas electronucleares llegó a arrojar resultados de hasta un 82% de opiniones negativas, en lo últimos años la impresión que tienen las personas hasta este tipo de plantas [ha ido en mejora](https://las-ans.org.br/wp-content/uploads/2019/04/12-MartindelCampo1.pdf). Se necesita, aún así, un esfuerzo mayor por educar acerca de los efectos y beneficios de la energía nuclear.
 
 ## CENTRAL EÓLICA “BIÍ STINÚ”
 La construcción de centrales eólicas en el istmo de Tehuantepec es liderada por empresas privadas, fundamentalmente extranjeras. Los intereses de estas empresas frecuentemente chocan con los de las comunidades locales donde se pretenden erigir los proyectos. Ello se refleja en el descontento social creciente ante el despliegue masivo de aerogeneradores, luego de constatar que el desarrollo eólico no ha beneficiado en la medida esperada a los pobladores locales.
@@ -256,6 +255,18 @@ Los generadores eólicos pueden tener [efectos negativos](https://www.researchga
 Entre 2009 y 2013 se realizó un muestreo combinado con diferentes métodos que incluye las redes de niebla, grabaciones acústicas y búsqueda de cadáveres. Los resultados indican que las especies afectadas son principalmente residentes y no migratorias. 
 En el trabajo de más reciente publicación  (2020), realizado con base en búsquedas alrededor de las torres eólicas, se registraron individuos de 30 especies de aves y 20 de murciélagos muertos por colisión con las hélices de las torres eólicas. El mayor número de organismos muertos hallados es de aves que de murciélagos. Sin embargo, al realizar estimaciones considerando la eficiencia de la búsqueda y persistencia de los cadáveres, se encontró que la mortalidad estimada es entre dos y cuatro veces mayor para murciélagos que para aves. La tasa estimada de muertes por megawatts por año son mayores que las registradas en diversos parques eólicos de Estados Unidos, lo que indica la magnitud de la mortalidad de aves y murciélagos en esta área.
 
+---------------------------------------------------------------------------
+
+### ¿ES POSIBLE QUE LA CENTRAL DE LAGUNA VERDE, EXPLOTE COMO UNA BOMBA?
+Esta es una creencia que confunde a algunas personas que carecen de información acerca de las centrales nucleares y es la principal causa de temor. Es imposible que un reactor nuclear explote como una bomba atómica, porque no pueden conjuntarse las distintas  condiciones que se requieren para que la explosión tenga lugar. Una explosión en una bomba es el resultado de una reacción en cadena  sin control y se produce con Uranio altamente enriquecido en un porcentaje superior al 95%, el Uranio del reactor contiene solo el 4% de dicho material.
+
+----------------------------------------------------------------------------------
+
+## CONCLUSIONES
+
+Tomando en cuenta las características de cada planta y la aceptación del pueblo mexicano hacia ellas, nuestra propuesta sería ampliar la capacidad de producción de energía nuclear, y alejarnos poco a poco de la producción de electricidad por combustibles fósiles. Si bien, abrir otra central en el sur del país sería una inversión muy grande e implicaría generar un fuerte impacto tanto ambiental como social, el beneficio a largo plazo de producir a base de una fuente limpia, segura y eficiente sería mayor que con cualquier otra opción.
+
+El mayor problema que se podría presentar al planear esta expansión, y basándonos tanto en los resultados de nuestra encuesta y en diversos estudios realizados en el país, sería la percepción que tiene el pueblo mexicano sobre la energía nuclear. Para poder lograr un mayor nivel de aceptación se debería iniciar por crear publicidad positiva por parte del gobierno y compartir información concreta de la manera en que Laguna Verde funciona, así como sus procesos de seguridad. 
 
 
 
@@ -263,7 +274,24 @@ En el trabajo de más reciente publicación  (2020), realizado con base en búsq
 ## Si te interesa seguir aprendiendo del tema, te invitamos a leer más de nuestras fuentes de información, ¡A aprender se ha dicho!
 ### Anexos:
 -----------------------------------------------------------------------
+http://globalenergyobservatory.org/form.php?pid=4918
+
+https://www.lanentweb.org/sites/default/files/docs/pdfs_nucleando/18_CCN_Combustible.pdf
+
+https://www.forbes.com.mx/cfe-estudia-instalar-4-reactores-nucleares-mas-en-mexico/
+
+https://cl.boell.org/sites/default/files/costos_de_la_energia_nuclear.pdf
+
+http://geocomunes.org/Analisis_PDF/Mapa%20Istmo%20ZEE%20.pdf
+
+http://sinat.semarnat.gob.mx/dgiraDocs/documentos/oax/resumenes/2011/20AO2011E0024.pdf
 
 http://congreso.investiga.fca.unam.mx/docs/xxii/docs/4.04.pdf
 
+https://www.energiaadebate.com/energia-limpia/energia-nuclear-en-mexico-un-logro-poco-valorado/
+
+
+---------------------------------------------------------------------------
 ![](https://cdecmx-org.github.io/templates_paginaweb_3/assets/img/cdcmx.ico)
+
+## EQUIPO
