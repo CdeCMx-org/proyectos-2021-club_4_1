@@ -269,7 +269,7 @@ Tomando en cuenta las características de cada planta y la aceptación del puebl
 El mayor problema que se podría presentar al planear esta expansión, y basándonos tanto en los resultados de nuestra encuesta y en diversos estudios realizados en el país, sería la percepción que tiene el pueblo mexicano sobre la energía nuclear. Para poder lograr un mayor nivel de aceptación se debería iniciar por crear publicidad positiva por parte del gobierno y compartir información concreta de la manera en que Laguna Verde funciona, así como sus procesos de seguridad. 
 
 ![](tabla2.PNG)
-![](tabla1.PNG)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla1.PNG?raw=true)
 
 ## Si te interesa seguir aprendiendo del tema, te invitamos a leer más de nuestras fuentes de información, ¡A aprender se ha dicho!
 ### Anexos:
