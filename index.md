@@ -305,3 +305,7 @@ El mayor problema que se podría presentar al planear esta expansión, y basánd
 ![](https://cdecmx-org.github.io/templates_paginaweb_3/assets/img/cdcmx.ico)
 
 ## EQUIPO
+- Daniela Ramirez Torres
+- Andrea Díaz Gaytán
+- Ariadna Hernández Gómez
+- Ana Margarita Perez Vazquez
