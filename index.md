@@ -1,4 +1,4 @@
-# Análisis de Plantas Eléctricas en el Sur de México
+# Análisis Comparativo de Centrales Eléctricas en el Sureste de México a Partir del Concepto de Sustentabilidad
 ## En el último año, ¿cuántas veces te has quedado sin luz en tu casa?
 
 **Nuestro proyecto tiene como objetivo analizar las ventajas y desventajas de tres de las plantas generadoras de energía eléctrica presentes en el sur de México, y así determinar una solución factible para satisfacer la demanda energética.**
