@@ -303,6 +303,9 @@ En el trabajo de más reciente publicación  (2020), realizado con base en búsq
 ### ¿ES POSIBLE QUE LA CENTRAL DE LAGUNA VERDE, EXPLOTE COMO UNA BOMBA?
 Esta es una creencia que confunde a algunas personas que carecen de información acerca de las centrales nucleares y es la principal causa de temor. Es imposible que un reactor nuclear explote como una bomba atómica, porque no pueden conjuntarse las distintas  condiciones que se requieren para que la explosión tenga lugar. Una explosión en una bomba es el resultado de una reacción en cadena  sin control y se produce con Uranio altamente enriquecido en un porcentaje superior al 95%, el Uranio del reactor contiene solo el 4% de dicho material.
 
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/gh-pages/meme1.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/gh-pages/meme2.PNG?raw=true)
+
 ------------------------------------------------------------------------------------------------------------------------
 
 ## ¡Hablemos de números!
