@@ -268,27 +268,27 @@ Tomando en cuenta las características de cada planta y la aceptación del puebl
 
 El mayor problema que se podría presentar al planear esta expansión, y basándonos tanto en los resultados de nuestra encuesta y en diversos estudios realizados en el país, sería la percepción que tiene el pueblo mexicano sobre la energía nuclear. Para poder lograr un mayor nivel de aceptación se debería iniciar por crear publicidad positiva por parte del gobierno y compartir información concreta de la manera en que Laguna Verde funciona, así como sus procesos de seguridad. 
 
-
+![](tabla2.PNG)
 ![](tabla1.PNG)
 
 ## Si te interesa seguir aprendiendo del tema, te invitamos a leer más de nuestras fuentes de información, ¡A aprender se ha dicho!
 ### Anexos:
 -----------------------------------------------------------------------
-http://globalenergyobservatory.org/form.php?pid=4918
+[http://globalenergyobservatory.org/form.php?pid=4918](http://globalenergyobservatory.org/form.php?pid=4918)
 
-https://www.lanentweb.org/sites/default/files/docs/pdfs_nucleando/18_CCN_Combustible.pdf
+[https://www.lanentweb.org/sites/default/files/docs/pdfs_nucleando/18_CCN_Combustible.pdf](https://www.lanentweb.org/sites/default/files/docs/pdfs_nucleando/18_CCN_Combustible.pdf)
 
-https://www.forbes.com.mx/cfe-estudia-instalar-4-reactores-nucleares-mas-en-mexico/
+[https://www.forbes.com.mx/cfe-estudia-instalar-4-reactores-nucleares-mas-en-mexico/](https://www.forbes.com.mx/cfe-estudia-instalar-4-reactores-nucleares-mas-en-mexico/)
 
-https://cl.boell.org/sites/default/files/costos_de_la_energia_nuclear.pdf
+[https://cl.boell.org/sites/default/files/costos_de_la_energia_nuclear.pdf](https://cl.boell.org/sites/default/files/costos_de_la_energia_nuclear.pdf)
 
-http://geocomunes.org/Analisis_PDF/Mapa%20Istmo%20ZEE%20.pdf
+[http://geocomunes.org/Analisis_PDF/Mapa%20Istmo%20ZEE%20.pdf](http://geocomunes.org/Analisis_PDF/Mapa%20Istmo%20ZEE%20.pdf)
 
-http://sinat.semarnat.gob.mx/dgiraDocs/documentos/oax/resumenes/2011/20AO2011E0024.pdf
+[http://sinat.semarnat.gob.mx/dgiraDocs/documentos/oax/resumenes/2011/20AO2011E0024.pdf](http://sinat.semarnat.gob.mx/dgiraDocs/documentos/oax/resumenes/2011/20AO2011E0024.pdf)
 
-http://congreso.investiga.fca.unam.mx/docs/xxii/docs/4.04.pdf
+[http://congreso.investiga.fca.unam.mx/docs/xxii/docs/4.04.pdf](http://congreso.investiga.fca.unam.mx/docs/xxii/docs/4.04.pdf)
 
-https://www.energiaadebate.com/energia-limpia/energia-nuclear-en-mexico-un-logro-poco-valorado/
+[https://www.energiaadebate.com/energia-limpia/energia-nuclear-en-mexico-un-logro-poco-valorado/](https://www.energiaadebate.com/energia-limpia/energia-nuclear-en-mexico-un-logro-poco-valorado/)
 
 
 ---------------------------------------------------------------------------
