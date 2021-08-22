@@ -174,6 +174,11 @@ Podemos decir que la mayoría de las problemáticas que se han presentado se deb
 ### CENTRAL EÓLICA "BIÍ STINU"
 Hasta la fecha, este parque eólico no ha registrado ningún accidente dentro de sus instalaciones, además de contar con un [protocolo de seguridad](http://sinat.semarnat.gob.mx/dgiraDocs/documentos/oax/resumenes/2011/20AO2011E0024.pdf) estricto para proteger la integridad física de sus colaboradores. 
 
+La energía eólica [no afecta a la salud](https://elmedicointeractivo.com/estudian-el-impacto-de-turbinas-eolicas-sobre-la-salud-humana/), no consume agua, no emite CO2 y [no contamina](http://www.evwind.com/2014/05/03/eolica-y-energias-renovables-parque-eolico-no-contamina-ni-causa-danos/), esto de acuerdo con la Academia Mexicana de Impacto Ambiental. No obstante, las personas que viven en el área cercana describen que “el parpadeo de las sombras, los sonidos audibles, y los niveles de presión acústica sub-audibles son molestos” todo esto refleja un impacto negativo en su calidad de vida.
+
+Un estudio llevado a cabo por “Statistics Canada” no encontró un vínculo directo entre la distancia de los residentes de las turbinas eólicas y las alteraciones de sueño, la presión arterial o el estrés.
+
+
 ## GENERACIÓN DE EMPLEOS
 
 ### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
@@ -217,14 +222,22 @@ A pesar de ello, la energía eólica tiene un gran nivel de aceptación social, 
 Se realizaron 7 preguntas en total; 2 correspondientes al perfil del entrevistado y 5 respecto a su opinión, las cuales fueron:
 
 Perfil de la persona encuestada
+
 1.- Seleccione su rango de edad
+
 2.- ¿En qué estado resides?
 
-Opinión de la persona encuestada
+
+**Opinión de la persona encuestada**
+
 3.- ¿Sabes cómo funciona una planta nuclear?
+
 4.- ¿Cuál de estas fuentes de energía crees que es más segura para las personas?
+
 5.- ¿Cuál de estas fuentes de energía crees que tiene un mayor impacto ambiental? 
+
 6.- ¿Cuál de estas fuentes de energía piensas que brinda una mayor producción energética? 
+
 7.- ¿Estarías de acuerdo con que se abra una nueva planta nuclear en el Sureste de México?
 
 Resultados
@@ -280,7 +293,7 @@ Los generadores eólicos pueden tener [efectos negativos](https://www.researchga
 Entre 2009 y 2013 se realizó un muestreo combinado con diferentes métodos que incluye las redes de niebla, grabaciones acústicas y búsqueda de cadáveres. Los resultados indican que las especies afectadas son principalmente residentes y no migratorias. 
 En el trabajo de más reciente publicación  (2020), realizado con base en búsquedas alrededor de las torres eólicas, se registraron individuos de 30 especies de aves y 20 de murciélagos muertos por colisión con las hélices de las torres eólicas. El mayor número de organismos muertos hallados es de aves que de murciélagos. Sin embargo, al realizar estimaciones considerando la eficiencia de la búsqueda y persistencia de los cadáveres, se encontró que la mortalidad estimada es entre dos y cuatro veces mayor para murciélagos que para aves. La tasa estimada de muertes por megawatts por año son mayores que las registradas en diversos parques eólicos de Estados Unidos, lo que indica la magnitud de la mortalidad de aves y murciélagos en esta área.
 
----------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 ### ¿ES POSIBLE QUE LA CENTRAL DE LAGUNA VERDE, EXPLOTE COMO UNA BOMBA?
 Esta es una creencia que confunde a algunas personas que carecen de información acerca de las centrales nucleares y es la principal causa de temor. Es imposible que un reactor nuclear explote como una bomba atómica, porque no pueden conjuntarse las distintas  condiciones que se requieren para que la explosión tenga lugar. Una explosión en una bomba es el resultado de una reacción en cadena  sin control y se produce con Uranio altamente enriquecido en un porcentaje superior al 95%, el Uranio del reactor contiene solo el 4% de dicho material.
@@ -293,7 +306,8 @@ Esta es una creencia que confunde a algunas personas que carecen de información
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla4.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla5.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla2.PNG?raw=true)
-----------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
 
 ## CONCLUSIONES
 
@@ -304,7 +318,7 @@ El mayor problema que se podría presentar al planear esta expansión, y basánd
 
 ## Si te interesa seguir aprendiendo del tema, te invitamos a leer más de nuestras fuentes de información, ¡A aprender se ha dicho!
 ### Anexos:
------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 [http://globalenergyobservatory.org/form.php?pid=4918](http://globalenergyobservatory.org/form.php?pid=4918)
 
 [https://www.lanentweb.org/sites/default/files/docs/pdfs_nucleando/18_CCN_Combustible.pdf](https://www.lanentweb.org/sites/default/files/docs/pdfs_nucleando/18_CCN_Combustible.pdf)
