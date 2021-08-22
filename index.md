@@ -73,6 +73,7 @@ El petróleo, el gas y el carbón son hidrocarburos. Estos recursos se formaron 
 *Los combustibles fósiles existen en cantidades finitas, no son renovables. 
 
 ![termo1](https://martinbrainon.com/inicio/wp-content/uploads/2016/06/central-termoelectrical-convencional.jpg)
+
 --------------------------------------------------------------------------------------------
 
 
@@ -103,17 +104,17 @@ Era necesario que estos parámetros tomarán en consideración los principios de
 ## PLANTAS ENERGÉTICAS SELECCIONADAS
 Una vez que los parámetros de comparación fueron establecidos, fue momento de iniciar la recopilación de datos. Se decidió evaluar solo 3 plantas energéticas, cada una funcionando con una de las fuentes de energía previamente mencionadas, esto con el propósito de cumplir con el tiempo asignado a la elaboración del proyecto. Las plantas enlistadas a continuación:
 
-## CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
+### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
 Ubicada en el municipio de Tuxpan, Veracruz. Es el mayor generador de energía en el país mediante recursos no renovables (petróleo). Fue inaugurada el 30 de junio de 1991 y cuenta con 6 generadores.
 
 ![](https://i1.wp.com/www.tuxpaninformativo.com/wp-content/uploads/116935232_955949548180185_2593658992889243150_n-1.jpg?fit=720%2C405&ssl=1)
 
-## CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE” (CNVL)
+### CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE” (CNVL)
 Se trata de la única central nuclear de generación eléctrica en México. Se encuentra en el municipio de Alto Lucero de Gutiérrez Barrios, en el estado de Veracruz. Con 45 años desde su fundación, fue construida en cooperación con el programa estadounidense “Átomos por la paz” y la Organización de las Naciones Unidas. Cuenta con 2 unidades en funcionamiento.
 
 ![](http://www.contrareplica.mx/uploads/2020/07/17/normal/b6fa301d52a54111f3ef19427ebe9609.jpg)
 
-## CENTRAL EÓLICA “BIÍ STINÚ”
+### CENTRAL EÓLICA “BIÍ STINÚ”
 Se ubica en los municipios de Juchitán de Zaragoza, El Espinal, Asunción Ixtaltepec y Ciudad Ixtepec, pertenecientes al Suroeste del estado de Oaxaca, en la Región del Istmo de Tehuantepec. Dicha central eólica se encuentra en operación desde 2012 con una capacidad de 164 megawatts.
 
 ![](https://aquinoticias.mx/wp-content/uploads/2019/06/e%C3%B3lica-M%C3%A9xico-parque-e%C3%B3lico-Oaxaca-660x440.jpg)
@@ -209,10 +210,10 @@ Teniendo en cuenta que esta central consta de 82 aerogeneradores, existen alrede
 Hoy en día, existe una gran conciencia ambiental entre la población. Gracias a la divulgación científica sobre los efectos del uso de energías no renovables tanto para el medio ambiente como en la salud humana. 
 Sin embargo, aún existe una opinión casi divida en cuanto al funcionamiento de plantas termoeléctricas. Para unos, la puesta en marcha de una planta solo provocará daños ambientales y enfermedades a los pobladores y comunidades aledañas, para otros traerá beneficios como empleos y desarrollo económico en la región.
 
-## CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
+### CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
 Si bien, hace unos años en México el nivel de desagrado por parte de la población hacia plantas electronucleares llegó a arrojar resultados de hasta un 82% de opiniones negativas, en lo últimos años la impresión que tienen las personas hasta este tipo de plantas [ha ido en mejora](https://las-ans.org.br/wp-content/uploads/2019/04/12-MartindelCampo1.pdf). Se necesita, aún así, un esfuerzo mayor por educar acerca de los efectos y beneficios de la energía nuclear.
 
-## CENTRAL EÓLICA “BIÍ STINÚ”
+### CENTRAL EÓLICA “BIÍ STINÚ”
 La construcción de centrales eólicas en el istmo de Tehuantepec es liderada por empresas privadas, fundamentalmente extranjeras. Los intereses de estas empresas frecuentemente chocan con los de las comunidades locales donde se pretenden erigir los proyectos. Ello se refleja en el descontento social creciente ante el despliegue masivo de aerogeneradores, luego de constatar que el desarrollo eólico no ha beneficiado en la medida esperada a los pobladores locales.
 
 En el caso de Oaxaca, las empresas eólicas limitan la información sobre sus proyectos a algunos aspectos técnicos, enfocándose en lo referente a los pagos por el usufructo de las tierras, al tiempo que desestiman o eluden hablar sobre sus eventuales efectos adversos.
@@ -224,7 +225,7 @@ A pesar de ello, la energía eólica tiene un gran nivel de aceptación social, 
 #### A continuación presentamos los resultados obtenidos por medio de una encuesta aplicada a 102 personas, cuyo propósito fue evaluar la opinión pública de la energía nuclear con respecto a otras fuentes de energía predominantes en el sureste. 
 Se realizaron 7 preguntas en total; 2 correspondientes al perfil del entrevistado y 5 respecto a su opinión, las cuales fueron:
 
-Perfil de la persona encuestada
+**Perfil de la persona encuestada**
 
 1.- Seleccione su rango de edad
 
@@ -243,9 +244,8 @@ Perfil de la persona encuestada
 
 7.- ¿Estarías de acuerdo con que se abra una nueva planta nuclear en el Sureste de México?
 
-#### Se obtuvieron 102 respuertas, arrojando:
+#### Se obtuvieron 102 respuertas, arrojando como resultados:
 
-Resultados
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados1.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados2.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados3.PNG?raw=true)
