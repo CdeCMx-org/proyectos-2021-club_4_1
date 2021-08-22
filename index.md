@@ -210,7 +210,9 @@ La construcción de centrales eólicas en el istmo de Tehuantepec es liderada po
 En el caso de Oaxaca, las empresas eólicas limitan la información sobre sus proyectos a algunos aspectos técnicos, enfocándose en lo referente a los pagos por el usufructo de las tierras, al tiempo que desestiman o eluden hablar sobre sus eventuales efectos adversos.
 
 A pesar de ello, la energía eólica tiene un gran nivel de aceptación social, con la mayoría de las personas considerándola una de las mejores opciones energéticas.
+
 -------------------------------------------------------------------------------------------------------------------
+
 #### A continuación presentamos los resultados obtenidos por medio de una encuesta aplicada, cuyo propósito fue evaluar la opinión pública de la energía nuclear con respecto a otras fuentes de energía predominantes en el sureste.
 
 -----------------------------------------------------------------------------------------
@@ -263,13 +265,13 @@ En el trabajo de más reciente publicación  (2020), realizado con base en búsq
 Esta es una creencia que confunde a algunas personas que carecen de información acerca de las centrales nucleares y es la principal causa de temor. Es imposible que un reactor nuclear explote como una bomba atómica, porque no pueden conjuntarse las distintas  condiciones que se requieren para que la explosión tenga lugar. Una explosión en una bomba es el resultado de una reacción en cadena  sin control y se produce con Uranio altamente enriquecido en un porcentaje superior al 95%, el Uranio del reactor contiene solo el 4% de dicho material.
 
 ------------------------------------------------------------------------------------------------------------------------
-## Hablemos de números
+
+## ¡Hablemos de números!
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla1.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla%203.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla4.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla5.PNG?raw=true)
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla2.PNG?raw=true)
-
 ----------------------------------------------------------------------------------
 
 ## CONCLUSIONES
