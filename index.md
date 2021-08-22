@@ -213,7 +213,28 @@ A pesar de ello, la energía eólica tiene un gran nivel de aceptación social, 
 
 -------------------------------------------------------------------------------------------------------------------
 
-#### A continuación presentamos los resultados obtenidos por medio de una encuesta aplicada, cuyo propósito fue evaluar la opinión pública de la energía nuclear con respecto a otras fuentes de energía predominantes en el sureste.
+#### A continuación presentamos los resultados obtenidos por medio de una encuesta aplicada a 102 personas, cuyo propósito fue evaluar la opinión pública de la energía nuclear con respecto a otras fuentes de energía predominantes en el sureste. 
+Se realizaron 7 preguntas en total; 2 correspondientes al perfil del entrevistado y 5 respecto a su opinión, las cuales fueron:
+
+Perfil de la persona encuestada
+1.- Seleccione su rango de edad
+2.- ¿En qué estado resides?
+
+Opinión de la persona encuestada
+3.- ¿Sabes cómo funciona una planta nuclear?
+4.- ¿Cuál de estas fuentes de energía crees que es más segura para las personas?
+5.- ¿Cuál de estas fuentes de energía crees que tiene un mayor impacto ambiental? 
+6.- ¿Cuál de estas fuentes de energía piensas que brinda una mayor producción energética? 
+7.- ¿Estarías de acuerdo con que se abra una nueva planta nuclear en el Sureste de México?
+
+Resultados
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados1.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados2.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados3.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados4.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados5.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados6.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados7.PNG?raw=true)
 
 -----------------------------------------------------------------------------------------
 ## IMPACTO AMBIENTAL 
