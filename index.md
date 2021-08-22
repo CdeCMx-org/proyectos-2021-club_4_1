@@ -95,7 +95,9 @@ Era necesario que estos parámetros tomarán en consideración los principios de
 		
 **Costo de inversión inicial:**  Los recursos económicos que fueron necesarios para poner la planta en funcionamiento
 		
-**Nivel de producción energética:** Promedio de producción de energía anual así como destacar si esta producción se ve afectada temporalmente por las condiciones climatológicas
+**Nivel de producción energética:** Promedio de producción de energía anual así como destacar si esta producción se ve afectada temporalmente por las condiciones climatológicas.
+
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tablacfe.PNG?raw=true)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ## PLANTAS ENERGÉTICAS SELECCIONADAS
@@ -260,6 +262,14 @@ En el trabajo de más reciente publicación  (2020), realizado con base en búsq
 ### ¿ES POSIBLE QUE LA CENTRAL DE LAGUNA VERDE, EXPLOTE COMO UNA BOMBA?
 Esta es una creencia que confunde a algunas personas que carecen de información acerca de las centrales nucleares y es la principal causa de temor. Es imposible que un reactor nuclear explote como una bomba atómica, porque no pueden conjuntarse las distintas  condiciones que se requieren para que la explosión tenga lugar. Una explosión en una bomba es el resultado de una reacción en cadena  sin control y se produce con Uranio altamente enriquecido en un porcentaje superior al 95%, el Uranio del reactor contiene solo el 4% de dicho material.
 
+------------------------------------------------------------------------------------------------------------------------
+## Hablemos de números
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla1.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla%203.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla4.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla5.PNG?raw=true)
+![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla2.PNG?raw=true)
+
 ----------------------------------------------------------------------------------
 
 ## CONCLUSIONES
@@ -268,8 +278,6 @@ Tomando en cuenta las características de cada planta y la aceptación del puebl
 
 El mayor problema que se podría presentar al planear esta expansión, y basándonos tanto en los resultados de nuestra encuesta y en diversos estudios realizados en el país, sería la percepción que tiene el pueblo mexicano sobre la energía nuclear. Para poder lograr un mayor nivel de aceptación se debería iniciar por crear publicidad positiva por parte del gobierno y compartir información concreta de la manera en que Laguna Verde funciona, así como sus procesos de seguridad. 
 
-![](tabla2.PNG)
-![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/tabla1.PNG?raw=true)
 
 ## Si te interesa seguir aprendiendo del tema, te invitamos a leer más de nuestras fuentes de información, ¡A aprender se ha dicho!
 ### Anexos:
