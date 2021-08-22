@@ -325,6 +325,15 @@ El mayor problema que se podría presentar al planear esta expansión, y basánd
 
 Cabe mencionar que, a pesar de su gran capacidad en infraestructura y producción, la central nucleoeléctrica Laguna Verde ha sufrido de una administración pobre y desorganizada. Se tendría que mejorar la manera en que se maneja este tipo de plantas para así poder mejorar nuestro abastecimiento energético.
 
+Después de investigar sobre la producción de energía eléctrica en el sureste del país, nos dimos cuenta de la compleja realidad que representa una central eléctrica de cualquier tipo; la transición energética no es tan blanco y negro como creíamos.
+
+Las emisiones de las centrales termoeléctricas impactan negativamente a la salud de las personas y contribuyen al cambio climático, pero muchas familias dependen económicamente de ellas. 
+
+Los parques eólicos son una fuente totalmente limpia, pero su construcción significa el desplazamiento de comunidades locales, 
+La nucleoeléctrica, no ha recibido el mantenimiento que necesita y la falta de comunicación de su funcionamiento por parte de la CFE, ha causado un gran rechazo social. 
+Considerando el concepto de sustentabilidad, nuestra propuesta sería mejorar y ampliar la capacidad de producción de energía nuclear, y alejarnos poco a poco de la producción de electricidad por combustibles fósiles. Con la tecnología adecuada e instituciones que comuniquen correctamente su funcionamiento,  una planta nuclear tiene un gran potencial a largo plazo. 
+
+
 ## Si te interesa seguir aprendiendo del tema, te invitamos a leer más de nuestras fuentes de información, ¡A aprender se ha dicho!
 ### Anexos:
 -----------------------------------------------------------------------------------------------------
