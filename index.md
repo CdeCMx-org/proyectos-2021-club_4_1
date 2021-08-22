@@ -211,7 +211,7 @@ Hoy en día, existe una gran conciencia ambiental entre la población. Gracias a
 Sin embargo, aún existe una opinión casi divida en cuanto al funcionamiento de plantas termoeléctricas. Para unos, la puesta en marcha de una planta solo provocará daños ambientales y enfermedades a los pobladores y comunidades aledañas, para otros traerá beneficios como empleos y desarrollo económico en la región.
 
 ### CENTRAL NUCLEOELÉCTRICA “LAGUNA VERDE”
-Si bien, hace unos años en México el nivel de desagrado por parte de la población hacia plantas electronucleares llegó a arrojar resultados de hasta un 82% de opiniones negativas, en lo últimos años la impresión que tienen las personas hasta este tipo de plantas [ha ido en mejora](https://las-ans.org.br/wp-content/uploads/2019/04/12-MartindelCampo1.pdf). Se necesita, aún así, un esfuerzo mayor por educar acerca de los efectos y beneficios de la energía nuclear.
+Si bien, hace unos años en México el nivel de desagrado por parte de la población hacia plantas electronucleares llegó a arrojar resultados de hasta un 82% de opiniones negativas, en lo últimos años la impresión que tienen las personas hacia este tipo de plantas [ha ido en mejora](https://las-ans.org.br/wp-content/uploads/2019/04/12-MartindelCampo1.pdf). Se necesita, aún así, un esfuerzo mayor por educar acerca de los efectos y beneficios de la energía nuclear.
 
 ### CENTRAL EÓLICA “BIÍ STINÚ”
 La construcción de centrales eólicas en el istmo de Tehuantepec es liderada por empresas privadas, fundamentalmente extranjeras. Los intereses de estas empresas frecuentemente chocan con los de las comunidades locales donde se pretenden erigir los proyectos. Ello se refleja en el descontento social creciente ante el despliegue masivo de aerogeneradores, luego de constatar que el desarrollo eólico no ha beneficiado en la medida esperada a los pobladores locales.
@@ -323,7 +323,7 @@ Tomando en cuenta las características de cada planta y la aceptación del puebl
 
 El mayor problema que se podría presentar al planear esta expansión, y basándonos tanto en los resultados de nuestra encuesta y en diversos estudios realizados en el país, sería la percepción que tiene el pueblo mexicano sobre la energía nuclear. Para poder lograr un mayor nivel de aceptación se debería iniciar por crear publicidad positiva por parte del gobierno y compartir información concreta de la manera en que Laguna Verde funciona, así como sus procesos de seguridad. 
 
-Cabe mencionar que, a pesar de su gran capacidad en infraestructura y producción, la central nucleoeléctrica Laguna Verde ha sufrido de una administración pobre y desorganizada. Se tendría que mejorar la manera en que se maneja este tipo de plantas para así poder mejorar nuestro abastecimiento de energético.
+Cabe mencionar que, a pesar de su gran capacidad en infraestructura y producción, la central nucleoeléctrica Laguna Verde ha sufrido de una administración pobre y desorganizada. Se tendría que mejorar la manera en que se maneja este tipo de plantas para así poder mejorar nuestro abastecimiento energético.
 
 ## Si te interesa seguir aprendiendo del tema, te invitamos a leer más de nuestras fuentes de información, ¡A aprender se ha dicho!
 ### Anexos:
