@@ -118,6 +118,8 @@ Se ubica en los municipios de Juchitán de Zaragoza, El Espinal, Asunción Ixtal
 
 ![](https://aquinoticias.mx/wp-content/uploads/2019/06/e%C3%B3lica-M%C3%A9xico-parque-e%C3%B3lico-Oaxaca-660x440.jpg)
 
+-------------------------------------------------------------------------------------------------------------------------
+
 ## MORTALIDAD E IMPACTO A LA SALUD
 ### CENTRAL TERMOELÉCTRICA “ADOLFO LÓPEZ MATEOS”
 Esta termoeléctrica funciona a base de la quema de [combustóleo](https://www.eluniversal.com.mx/nacion/que-es-el-combustoleo-y-por-que-es-tan-polemico), el cual emite distintos contaminantes a la atmósfera. 
@@ -178,6 +180,7 @@ La energía eólica [no afecta a la salud](https://elmedicointeractivo.com/estud
 
 Un estudio llevado a cabo por “Statistics Canada” no encontró un vínculo directo entre la distancia de los residentes de las turbinas eólicas y las alteraciones de sueño, la presión arterial o el estrés.
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## GENERACIÓN DE EMPLEOS
 
@@ -198,7 +201,7 @@ Se calcula que la construcción de los parques eólicos en servicio en el Istmo 
 
 Teniendo en cuenta que esta central consta de 82 aerogeneradores, existen alrededor de 28 empleos directos. Para la población local los empleos en esta fase son pocos y, en general, de [baja remuneración](https://www.sciencedirect.com/science/article/pii/S030170361470879X).
 
----------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 ## NIVEL DE ACEPTACIÓN E IMPACTO SOCIAL
 
@@ -239,6 +242,8 @@ Perfil de la persona encuestada
 6.- ¿Cuál de estas fuentes de energía piensas que brinda una mayor producción energética? 
 
 7.- ¿Estarías de acuerdo con que se abra una nueva planta nuclear en el Sureste de México?
+
+#### Se obtuvieron 102 respuertas, arrojando:
 
 Resultados
 ![](https://github.com/CdeCMx-org/proyectos-2021-club_4_1/blob/main/resultados1.PNG?raw=true)
